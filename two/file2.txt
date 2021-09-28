@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 skdsk
 ds
+=======
+sd
+dsds
+>>>>>>> origin
